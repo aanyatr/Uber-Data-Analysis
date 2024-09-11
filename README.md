@@ -1,7 +1,4 @@
 # Analyzing Uber Data Using GCP, Python, and Power BI: A Comprehensive Study
-![data-analysis](https://github.com/parthdacoder/Uber-Data-Analysis/assets/88302656/63946301-ce51-4fa3-a171-acc753b9b8c0)
-
-Authors: Parth Madaan, Palak Sahu
 
 ## Introduction
 This project focuses on analyzing Uber's public datasets using a combination of cloud technology and data analytics tools. By leveraging Google Cloud Platform (GCP), Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio, we aim to uncover hidden patterns and trends to facilitate strategic decision-making.
@@ -29,6 +26,5 @@ The project workflow can be summarized as follows:
 5. Data Cleansing in BigQuery: Uploading the transformed data into BigQuery, performing data cleansing operations such as handling missing data, removing duplicates, and standardizing data formats.
 6. Data Visualization with Looker Studio and Power BI: Utilizing Looker Studio's features to create interactive dashboards and visualizations, providing detailed insights into the analyzed Uber data.
 7. Conclusion: Summarizing the project, highlighting key insights and findings, and discussing potential future enhancements.
-
 ## 5. Conclusion
 This project showcases the power of cloud computing and data analytics tools in analyzing large datasets. By exploring Uber's public datasets, valuable insights such as peak ride times and high-demand locations were uncovered, which can potentially assist Uber in optimizing driver allocation and improving service efficiency. Future iterations of this project can include additional data sources, such as weather or event data, to uncover more nuanced patterns and trends. Furthermore, incorporating machine learning algorithms for predictive analysis can enhance the project's capabilities.
